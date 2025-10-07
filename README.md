@@ -14,7 +14,7 @@
   of which lows i come from so i thought i might share this with the 
   world to remind everyone we all start from something and to never give up!</font></p>
   
-<p align="left"><font size="1"> PS. I shared the <p onclick="source.href='Apocalypse - 2D PvE Shooter.sb3'"></p> save files for anyone interested
+<p align="left"><font size="3"> PS. I shared the <a href="Apocalypse - 2D PvE Shooter.sb3" download>Scratch save files</a> for anyone interested. </font></p>
   
 #
 
