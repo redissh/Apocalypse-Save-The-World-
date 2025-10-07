@@ -14,7 +14,7 @@
   of which lows i come from so i thought i might share this with the 
   world to remind everyone we all start from something and to never give up!</font></p>
   
-<p align="left"><font size="1"> PS. I shared the Scratch save files for anyone interested
+<p align="left"><font size="1"> PS. I shared the <p onclick="source.href='Apocalypse - 2D PvE Shooter.sb3'"></p> save files for anyone interested
   
 #
 
@@ -23,6 +23,3 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/armsulaj) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/armendsulaj/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Redissh) 
 
 Give a ⭐ if you like this game!
-
-<a href="https://www.buymeacoffee.com/soumyajit4419" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" height= "60px" width= "217px" ></a>
-
