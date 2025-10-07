@@ -1,10 +1,12 @@
-# Apocalypse - 2D PvEShooter
+<h1 align="center">
+  Apocalypse - 2D PvEShooter <br/>
+</h1>
 
 <a href="https://scratch.mit.edu/projects/1224376770" target="_blank"><img src="game-thumbnail.png" height= "1900px" width= "904px" ></a> 
 
 <p align="center"><font size="5">(click the image to visit the game)</font></p>
 
-
+### Backstory
 
 <p align="left"><font size="3"> This is the first game i ever made, i made it 5 years ago for a school project in Scratch.
   It's extremely buggy and i never got to finish it but it still is one of my favourite projects as it reminds me 
