@@ -1,5 +1,5 @@
 <h1 align="center">
-  Apocalypse - 2D PvEShooter <br/>
+  Apocalypse - 2D PvE Shooter <br/>
 </h1>
 
 <a href="https://scratch.mit.edu/projects/1224376770" target="_blank"><img src="game-thumbnail.png" height= "1900px" width= "904px" ></a> 
