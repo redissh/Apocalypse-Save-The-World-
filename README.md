@@ -1,6 +1,6 @@
 # Apocalypse - 2D PvEShooter
 
-<a href="https://scratch.mit.edu/projects/1224376770" target="_blank"><img src="demoimg1.png" height= "1900px" width= "904px" ></a> 
+<a href="https://scratch.mit.edu/projects/1224376770" target="_blank"><img src="game-thumbnail.png" height= "1900px" width= "904px" ></a> 
 
 <p align="center"><font size="7">(click the image to visit the game)</font></p>
 
